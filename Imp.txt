@@ -1,0 +1,145 @@
+Assyst:Ramajayam_04
+ADP:G*01
+tax : Srikrishna#01
+new xming : Rest12345
+old xming- Indian_01
+Vishnu_1234-bi
+plan - e5488108	
+!Test2Test2!
+*Welcome01*Welcome01
+EPFO
+100876360473
+Madhu#01
+cresb
+Putty_123  -Bin
+loan
+esha0409
+Harekrishna_01
+hdfc
+08471140010257
+loan
+086403464000003
+**L**I
+E*_54
+Welcome*01 - vipul
+
+UAN new - 100876360473
+Vishnu*123
+
+1277446336
+
+
+10270100076030
+
+*****
+**EB****
+CONSUMER NO:09055244398
+
+
+18008430003
+
+
+
+rdurkask@alankit.com
+
+
+cpc
+18004194000
+ia1600137
+
+
+
+
+
+Account No.
+08471140010257	
+Branch
+THIRUVANMIYUR	
+Name
+G MARUTHAMKUMAR
+
+IFSC : HDFC0000847
+
+
+
+Ilikewindows10! - vm- maruthag
+
+
+map compot and spuccser after restart and check if it is accessible 
+
+IT filling : BDDPM2260B
+Janarthana*123
+Git:
+Pa**kr**_01
+Windows#02Windows#02 - Planview
+
+
+
+
+source doku link:
+file://s7016cc3/kola_fuer_anwender/r115/r115_f_unix_Source_Doku/index.html
+Tnsnames:
+C:\oracle\product\12.2.0\client_1\network\admin
+
+epfo greievience - HRGGN/E/2021/08550
+
+Bit9 access issue - raise ticket
+--------------------------------
+https://support.fis.app/home
+
+Click --App& software 
+
+Click --software management
+
+Click --Locally installed app issue
+---------------------------------
+User-ID: kordoba\arunb
+
+ 
+
+Business Area: Desktop Services
+Service Area: EMEA Local Support
+Group: SG ITDS - Germany, Munich
+
+ 
+
+SG ITDS - Kordoba#Munich#Graz#Nuremberg#Warsaw
+
+----------------
+APDU - LOG
+----------------
+[3:09 PM] Balakrishnan, Arun
+    connect 10.133.125.23
+in winscp
+Login with ur RSA Token
+Webservice APDU log path - /home/coreweb/S115_rel_SoapGateway/logs
+GUI APDU Log path - /home/coreweb/Log-Files/Core24/R211Int
+ 
+**********************************************************
+sgs6stre1.sh - to free account numbers
+
+*********************
+connect 10.133.125.23
+
+in winscp 
+
+Login with ur RSA Token 
+
+Webservice APDU log path - /home/coreweb/S115_rel_SoapGateway/logs
+
+GUI APDU Log path - /home/coreweb/Log-Files/Core24/R211Int
+***************ENCODER****************
+https://kordobaartifactory.fnfis.com/artifactory/webapp/#/artifacts/browse/tree/General/kordoba-3rdparty-libs-local/org/owasp/encoder/encoder/1.2.3/encoder-1.2.3.jar
+4:52 PM 7/12/2021
+Hi Team,
+
+Please use  /spu_tools/km60/bin/create_dev_area.sh script once to create the new dev area and its folder structure. 
+
+/spu_tools/km60/bin/create_dev_area.sh r221
+
+Folder structure and file created below
+
+User id - vinothkumar.veeraraghavan@fisglobal.com
+pw - Pw - Kordoba@123
+
+
